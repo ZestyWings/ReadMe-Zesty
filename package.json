@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ZestyWings/ReadMe-Zesty/issues"
   },
-  "homepage": "https://github.com/ZestyWings/ReadMe-Zesty#readme"
+  "homepage": "https://github.com/ZestyWings/ReadMe-Zesty#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
 }
