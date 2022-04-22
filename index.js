@@ -15,13 +15,7 @@ const promptUser = () => {
             type: "input",
             message: "What is the project about? Give a detailed description of your project",
             name: "Description",
-        }, 
-        // {
-        //     type: "input", 
-        //     message: "Table of Contents.",
-        //     name: "tableOfContents"
-        // },
-         {
+        }, {
             type: "input",
             message: "What does the user need to install to run this app?",
             name: "Installation",
@@ -53,8 +47,8 @@ const promptUser = () => {
 
 const init = () => {
     promptUser()
-    .then((answers) => fs.writeFileSync('README.md', generatorMarkdown(answers)))
-    .then(() => console.log("Successfully wrote to README.md"))
+    .then((answers) => fs.writeFileSync('README-example.md', generatorMarkdown(answers)))
+    .then(() => console.log("Successfully wrote to README-example.md"))
     .catch((err) => console.error(err));
 };
 

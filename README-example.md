@@ -1,22 +1,10 @@
-const generatorMarkdown = ({ 
-    Title, 
-    Description, 
-    Installation,
-    Usage,
-    License,
-    Contributing,
-    Username,
-    Email,    
-}) =>
+# ReadME Generator
 
-
-    `# ${Title}
-
-https://github.com/${Username}
+https://github.com/ZestyWings
 
 ## Description
 
-${Description}
+Generating a readme through a users input
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
@@ -32,29 +20,22 @@ ${Description}
 
 ## Installation
 
-${Installation}
+Node and NPM INIT
 
 ## Usage
 
-${Usage}
+To create an organized readme template
 
 ## Credits
 
-${Contributing}
+Me, Myself and I
 
 ## License
 
-${License}
+N/A
 
 ---
 
 ## Contact Info
 
-Email: ${Email}
-`
-
-
-
-
-module.exports = generatorMarkdown
-
+Email: zethsatenes@gmail.com
