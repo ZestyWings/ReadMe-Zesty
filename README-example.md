@@ -1,15 +1,21 @@
-# ReadME Generator
+# weather zesty
 
 https://github.com/ZestyWings
 
 ## Description
 
-Generating a readme through a users input
+Provides the Weather when given the city
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- I wanted to know the weather
+- I never check the weather
+- Tells me the weather wherever
+- I can find the weather anywhere
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 ## Table of Contents 
 
@@ -20,15 +26,15 @@ Generating a readme through a users input
 
 ## Installation
 
-Node and NPM INIT
+Nothing 
 
 ## Usage
 
-To create an organized readme template
+Type the city in the search box
 
 ## Credits
 
-Me, Myself and I
+I did
 
 ## License
 
@@ -38,4 +44,4 @@ N/A
 
 ## Contact Info
 
-Email: zethsatenes@gmail.com
+Email: zethsatentes@yahoo.com

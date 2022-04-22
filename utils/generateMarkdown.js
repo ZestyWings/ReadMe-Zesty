@@ -6,9 +6,12 @@ const generatorMarkdown = ({
     License,
     Contributing,
     Username,
-    Email,    
+    Email,   
+    Motivation,
+    Build,
+    Problem,
+    Learn, 
 }) =>
-
 
     `# ${Title}
 
@@ -18,10 +21,15 @@ https://github.com/${Username}
 
 ${Description}
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- My motivation for this project was ${Motivation}
+- I built this project because ${Build}
+- What problem does it solve? ${Problem}
+- I've learned that ${Learn}
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
 
 ## Table of Contents 
 

@@ -17,6 +17,22 @@ const promptUser = () => {
             name: "Description",
         }, {
             type: "input",
+            message: "What was your motivation?",
+            name: "Motivation",
+        }, {
+            type: "input",
+            message: "Why did you build this project?",
+            name: "Build",
+        }, {
+            type: "input",
+            message: "What problem does it solve?",
+            name: "Problem",
+        }, {
+            type: "input",
+            message: "What did you learn?",
+            name: "Learn",
+        }, {
+            type: "input",
             message: "What does the user need to install to run this app?",
             name: "Installation",
         }, {
