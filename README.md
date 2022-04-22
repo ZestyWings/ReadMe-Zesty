@@ -1,6 +1,7 @@
 # README Generator
 
 https://github.com/ZestyWings/ReadMe-Zesty
+
 https://zestywings.github.io/ReadMe-Zesty/
 
 
@@ -8,14 +9,26 @@ https://zestywings.github.io/ReadMe-Zesty/
 
 A generator that provides a template through the users inputs.
 
-- What was your motivation?
-    Tried to setup an easy to use README Generator for future projects
-- Why did you build this project? 
-    It was a homework assignment but it will also be very useful in the future
-- What problem does it solve?
-    It saves me the time I spend on building a quality README
-- What did you learn?
-    README's are a lot easier to write when you have a generator! XD
+Q: What was your motivation?
+
+    A: Tried to setup an easy to use README Generator for future projects
+
+
+Q: Why did you build this project? 
+
+    A: It was a homework assignment but it will also be very useful in the future
+
+
+Q: What problem does it solve?
+
+    A: It saves me the time I spend on building a quality README
+
+
+Q: What did you learn?
+
+    A: README's are a lot easier to write when you have a generator! XD
+
+
 
 ## Table of Contents 
 

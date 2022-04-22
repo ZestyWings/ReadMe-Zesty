@@ -21,14 +21,22 @@ https://github.com/${Username}
 
 ${Description}
 
-- What was your motivation?
-    ${Motivation}
-- Why did you build this project?
-    ${Build}
-- What problem does it solve? 
-    ${Problem}
-- What did you learn?
-    ${Learn}
+Q: What was your motivation?
+
+    A: ${Motivation}
+    
+Q: Why did you build this project?
+
+    A: ${Build}
+
+Q: What problem does it solve? 
+
+    A: ${Problem}
+
+Q: What did you learn?
+
+    A: ${Learn}
+
 
 ## Badges
 
